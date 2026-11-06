@@ -1,0 +1,15 @@
+WASTE_ID,field,new_value,reason,source_url
+53626,drop,,no centralised plant at Surabaya; decentralised communal units only,https://ejurnal.itats.ac.id/stepplan/article/download/816/688
+53643,drop,,"Jakarta Zone 1 (Pluit) plant under construction, 240,000 m3/d, target 2027",https://www.obayashi.co.jp/en/news/detail/news20230110_1_en.html
+53642,drop,,no centralised plant in north-west Jakarta,https://finance.detik.com/infrastruktur/d-7683156/proyek-pengolahan-limbah-raksasa-jakarta-rampung-2027-begini-progresnya/amp
+53641,drop,,no centralised plant; duplicate outlet of 53642,https://finance.detik.com/infrastruktur/d-7683156/proyek-pengolahan-limbah-raksasa-jakarta-rampung-2027-begini-progresnya/amp
+53645,drop,,"IPAL Losari, Makassar: 16,000 m3/d design, under 10% used in 2025",https://bengkulu.antaranews.com/berita/333873/presiden-jokowi-resmikan-ipal-losari-makassar-senilai-rp12-triliun
+IDN_source12,drop_country_synthetic,IDN,"all remaining Indonesian HydroWASTE plants are synthetic placements (source 12, no reported location, population or flow); the five largest were not found to exist",see rows above
+14326,WASTE_DIS,730000,"Psyttalia average flow 730,000 m3/d",https://www.environmental-expert.com/articles/athens-psyttalia-case-study-783244
+26638,ocean_outfall,False,Blue Plains discharges to the tidal Potomac River,https://www.dcwater.com/dc-water-glance
+56028,ocean_outfall,False,"Nanji (Seoul, probable) discharges to the Han River",https://news.seoul.go.kr/env/water-recycling-facility/nanji-water-center/nanji-water-center-introduction
+53178,LEVEL,Primary,Taboada: preliminary treatment only,https://tedagua.com/uploads/1401171399_articulo-futurenviro-ptar-taboada.pdf
+52263,LEVEL,Primary,Bandra: preliminary treatment only,https://citizenmatters.in/explainer-sewage-in-mumbai-treatment-disposal-30022
+52262,LEVEL,Primary,Worli: preliminary treatment only,https://citizenmatters.in/explainer-sewage-in-mumbai-treatment-disposal-30022
+54413,LEVEL,Primary,Alexandria West: primary treatment; secondary in design,https://kh.aquaenergyexpo.com/wp-content/uploads/2022/11/Integrated-Wastewater-Management-in-Coastal-Arid-Areas-and-Water-Reuse-in-Alexandria-Southern-Mediterranean.pdf
+45741,LEVEL,Primary,Zhuyuan No.1 (probable): advanced primary treatment,https://www.adb.org/publications/wastewater-treatment-case-study-public-private-partnerships-ppps-shanghai
