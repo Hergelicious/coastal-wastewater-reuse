@@ -3,7 +3,8 @@ title: "coastal-reclaim: analysis code for 'Coastal cities discharge as much tre
 message: "If you use this code, please cite the paper once published and this archive."
 type: software
 authors:
-  - name: "Anonymous (withheld for double-blind review)"
+  - name: "Hagar H. Hassan, Department of Sanitary Engineering, Faculty of Engineering, Alexandria University, Alexandria, Egypt.
+;Ahmed Hassona Hassan, Central European Institute of Technology (CEITEC), Masaryk University, Brno, Czech Republic."
 version: 4.0.0
 date-released: "2026-11-06"
 license: MIT
