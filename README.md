@@ -31,7 +31,9 @@ inputs/
 data/README.md             where to obtain each input dataset (not redistributed)
 out/                       created by the pipeline
 ```
-
+The repository also includes `Supplementary_Software_1_atlas.html`, 
+an interactive atlas for exploring the coastal wastewater treatment 
+plants and their geographic distribution.
 ## Run
 
 ```
