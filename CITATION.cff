@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "coastal-reclaim: analysis code for 'Coastal cities discharge as much treated wastewater to the sea as the world can desalinate'"
+message: "If you use this code, please cite the paper once published and this archive."
+type: software
+authors:
+  - name: "Anonymous (withheld for double-blind review)"
+version: 4.0.0
+date-released: "2026-11-06"
+license: MIT
